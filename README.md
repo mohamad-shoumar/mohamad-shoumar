@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Cosmology**
+- 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I can read your thoughts!**
 
