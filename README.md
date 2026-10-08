@@ -44,16 +44,6 @@ I'm a **Backend Engineer** at **CoinQuant (Abu Dhabi)**, where I started as a fu
   <img src="https://img.shields.io/badge/API%20Design-0EA5E9?style=flat-square&logo=openapiinitiative&logoColor=white" />
 </p>
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamad-shoumar&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=110&section=footer" width="100%" alt="footer" />
 </p>
