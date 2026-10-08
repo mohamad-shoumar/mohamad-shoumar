@@ -1,6 +1,6 @@
 <!-- Hero banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamad%20Shoumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Algorithmic%20Trader%20%E2%80%A2%20Beirut%2C%20Lebanon&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Mohamad Shoumar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=220&section=header&text=Mohamad%20Shoumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Algorithmic%20Trader%20%E2%80%A2%20Beirut%2C%20Lebanon&descAlignY=60&descSize=18" width="100%" alt="Mohamad Shoumar banner" />
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ I'm a **Backend Engineer** at **CoinQuant (Abu Dhabi)**, where I started as a fu
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=110&section=footer" width="100%" alt="footer" />
 </p>
